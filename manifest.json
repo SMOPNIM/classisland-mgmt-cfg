@@ -1,0 +1,20 @@
+{
+    "ServerKind": 0,
+    "OrganizationName": "Nanchang_Minde_School",
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/SMOPNIM/classisland-mgmt-cfg/master/{id}/lassplans.json",
+        "Version": 1 
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/SMOPNIM/classisland-mgmt-cfg/master/{id}/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/SMOPNIM/classisland-mgmt-cfg/master/{id}/subjects.json",
+        "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/SMOPNIM/classisland-mgmt-cfg/master/{id}/policy.json",
+        "Version": 1
+    }
+}
