@@ -1,4 +1,5 @@
 {
     "ManagementServerKind": 0,
-    "ManifestUrlTemplate": "https://raw.githubusercontent.com/SMOPNIM/classisland-mgmt-cfg/master/manifest.json"
+    "ManifestUrlTemplate": "https://raw.githubusercontent.com/SMOPNIM/classisland-mgmt-cfg/master/manifest.json",
+    "ClassIdentity": "HOME"
 }
